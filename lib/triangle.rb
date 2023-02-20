@@ -27,11 +27,10 @@ class Triangle
 
   class TriangleError < StandardError
     # triangle error code
-    puts "Twoy46 is dope"
+    puts "wtf"
   end
 
 end
 
 tri = Triangle.new(9,2,9)
 tri.kind
-Footer
