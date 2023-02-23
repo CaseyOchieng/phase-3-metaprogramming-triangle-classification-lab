@@ -34,3 +34,4 @@ end
 
 tri = Triangle.new(9,2,9)
 tri.kind
+# Triangle pass
